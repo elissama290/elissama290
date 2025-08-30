@@ -1,6 +1,4 @@
-
-
-  # Olá, eu sou Camilli Elissama! 👋
+   # Olá, eu sou Camilli Elissama! 👋
 
 Bem-vinda(o) ao meu perfil no GitHub!  
 
@@ -8,13 +6,12 @@ Bem-vinda(o) ao meu perfil no GitHub!
 
 - 👩🏻‍💻 Estudante de TI.
 - 🌱 Estou aprendendo e me especializando em ***Desenvolvimento de Software***.
-- ❄️ Fun fact: Eu prefiro o inverno — meu sonho é tomar chocolate quente em uma cabana nas montanhas.
 - 📫 Como me encontrar: [camillimarques261@gmail.com](mailto:camillimarques261@gmail.com)
 
 ---
 
 ## 🔗 Meus perfis
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilli-elissama-7a7503230/)
 
 ---
 
