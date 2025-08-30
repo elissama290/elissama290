@@ -3,6 +3,7 @@ Bem-vindo ao meu perfil no GitHub!
 - ⚡ Fun fact: I prefer winter — my dream is drinking hot chocolate in a cabin in the mountains or even in a coffee shop in New York.
 -  📫 Como me encontrar: [camillimarques261@gmail.com]
 -  [![LinkedIn](https://www.linkedin.com/in/camilli-elissama-7a7503230/)
+-  ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
 -->
 ### Linguagens e Tecnologias
