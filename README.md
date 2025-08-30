@@ -1,64 +1,42 @@
-## 👩🏻‍💻 Camilli Elissama! 👋
-Bem-vindo ao meu perfil no GitHub!
-- ⚡ Fun fact: I prefer winter — my dream is drinking hot chocolate in a cabin in the mountains or even in a coffee shop in New York.
--  📫 Como me encontrar: [camillimarques261@gmail.com]
--  [![LinkedIn](https://www.linkedin.com/in/camilli-elissama-7a7503230/)
--  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
--  ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
--->
-### Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-/>
+  # Olá, eu sou Camilli Elissama! 👋
 
-<img 
-    align="left" 
-    alt="Csharp"
-    title="Csharp" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="java" 
-    title="java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+Bem-vinda(o) ao meu perfil no GitHub!  
+
+---
+
+- 👩🏻‍💻 Estudante de TI.
+- 🌱 Estou aprendendo e me especializando em ***Desenvolvimento de Software***.
+- ❄️ Fun fact: Eu prefiro o inverno — meu sonho é tomar chocolate quente em uma cabana nas montanhas.
+- 📫 Como me encontrar: [camillimarques261@gmail.com](mailto:camillimarques261@gmail.com)
+
+---
+
+## 🔗 Meus perfis
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
+
+---
+
+## 💻 Tecnologias
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</p>
+
+---
+
 ## 📚 Projetos em Destaque
-- Futuros projetos em andamento...😊
+- Futuros projetos em andamento... 😊
+
+---
+
+## 🚀 Contato
+Sinta-se à vontade para entrar em contato ou colaborar!  
+
 
 
