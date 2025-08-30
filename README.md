@@ -1,8 +1,9 @@
 ## 👩🏻‍💻 Camilli Elissama! 👋
+Bem-vindo ao meu perfil no GitHub!
+- ⚡ Fun fact: I prefer winter — my dream is drinking hot chocolate in a cabin in the mountains or even in a coffee shop in New York.
+-  📫 Como me encontrar: [camillimarques261@gmail.com]
+-  [![LinkedIn](https://www.linkedin.com/in/camilli-elissama-7a7503230/)
 
-- 🌱 I’m currently studying technology...
-My name is Camilli Elissama, I am 21 years old and I am from Campinas, Sao Paulo. I completed high school integrated with a technical course in computer science. Currently, I am studying Computer Science at Paulista University.
-- ⚡ Fun fact: I prefer winter — my dream is to plan while drinking hot chocolate in a cabin in the mountains or even in a coffee shop in New York.
 -->
 ### Linguagens e Tecnologias
 
@@ -55,5 +56,7 @@ My name is Camilli Elissama, I am 21 years old and I am from Campinas, Sao Paulo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+## 📚 Projetos em Destaque
+- Futuros projetos em andamento...😊
 
 
